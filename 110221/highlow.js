@@ -69,3 +69,4 @@ do {
 
     var input = prompt('Want to play again? (Y/N) ');
 } while (input === "Y");
+
